@@ -397,7 +397,7 @@ foreach ($file in $files) {
 
 ---
 
-## Checklist de Migração
+## Checklist
 
 - [ ] Novo servidor provisionado
 - [ ] Domínio DNS configurado
@@ -416,7 +416,7 @@ foreach ($file in $files) {
 
 ## Contato / Suporte
 
-Desenvolvido por Kenny
+Desenvolvido por Konnyoung
 
 API atual: https://auth.kennyy.com.br
 
